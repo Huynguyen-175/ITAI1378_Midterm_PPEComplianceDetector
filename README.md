@@ -1,7 +1,9 @@
 # PPE Compliance Detector
 
 **Project Name:** PPE Compliance Detector
-**Team Members:** Huy Nguyen & Raymond Newton
+
+**Huy Nguyen** 
+
 **Course:** ITAI 1378 — Final Project Submission
 
 ---
