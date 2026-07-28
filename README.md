@@ -75,7 +75,7 @@ Sample outputs:
 - `results/demo_non_compliant_2.png` — mask missing, flagged correctly (0.90 confidence)
 - `results/demo_compliant.png` — two people, both masked, flagged correctly (0.84 / 0.83 confidence)
 
-**Demo Video:** *[add YouTube (Unlisted) or Google Drive link here before submitting]*
+**Demo Video:** *https://drive.google.com/file/d/19NIlKw3FEByQJ_tZi7LvLzqxp39bcVc8/view?usp=drive_link*
 
 ---
 
